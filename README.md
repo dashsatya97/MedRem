@@ -1,2 +1,2 @@
 # MedRem
-MedRem-Medicine Reminder Application
+A Mobile Application for medication reminder, based on a project under the course of Software Engineering in Poltitecnico Di Milano, Italy
